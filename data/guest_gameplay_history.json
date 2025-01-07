@@ -1,0 +1,15 @@
+{
+  "games_played": 1,
+  "wins": 0,
+  "best_score": 0,
+  "average_attempts": 6.0,
+  "history": [
+    {
+      "date": "2025-01-03 15:58",
+      "won": false,
+      "attempts": 6,
+      "time": 80,
+      "score": 0
+    }
+  ]
+}
